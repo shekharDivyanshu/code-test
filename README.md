@@ -5,7 +5,9 @@
 # Description : 
    Calculate the minimal degrees of separation between two actors. 
    For example, according to the data set supplied below, Pierce Brosnan and Tilda Swinton are 2 degrees apart, because  Brosnan was in a movie with Meryl Streep, and Streep was in a different movie with Tilda Swinton.
-   
+
+## Test Data : /data/testData.txt
+
 # Solution :
 - [x] Create un-directed graph with all actors and movie title. such that two actors are connected with movie title node.
 - [x] Apply BFS to find shortest path between two node.
