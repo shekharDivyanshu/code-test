@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * Patient Ping coding exercise
+ * Coding exercise
  * Kevin-Bacon problem solution.
  * Wiki : https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon
  *
