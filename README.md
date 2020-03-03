@@ -10,3 +10,6 @@
 Step 1 : Create un-directed graph with all actors and movie title. such that two actors are connected with movie title node. 
 Step 2 : apply BFS to find shortest path between two node. 
 Step 3 : Minimal degree = total number of movie node between two node along its shortest path.
+
+# Main class : 
+  src/main/java/com/coding/exercise/codetest/KevinBaconProblem.java
